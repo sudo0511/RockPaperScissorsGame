@@ -3,6 +3,6 @@
 Traditional rock papers scissor game made using HTML, CSS3 and Javascript.
 
 Rules -
-Paper covers Rock
-Rock destroys scissors
-Scissor cuts paper
+1. Paper covers Rock
+2. Rock destroys scissors
+3. Scissor cuts paper
